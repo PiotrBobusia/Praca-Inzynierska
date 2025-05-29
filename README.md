@@ -1,2 +1,2 @@
-# Praca-In-ynierska
+# Praca-Inżynierska
 Repozytorium zawiera mój projekt aplikacji/gry na Android w środowisku Processing.
